@@ -1,0 +1,17 @@
+{
+  "name": "apollo-graphql-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.6.11",
+    "apollo-server": "^2.9.12",
+    "graphql": "^14.5.8"
+  }
+}
