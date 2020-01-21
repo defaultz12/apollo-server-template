@@ -19,6 +19,7 @@ class BooksAPI extends RESTDataSource {
 				author: "Michael Crichton"
 			}
 		];
+		console.log(books);
 		return books.map(book => this.bookReducer(book));
 	}
 
